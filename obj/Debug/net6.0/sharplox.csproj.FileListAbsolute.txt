@@ -1,0 +1,15 @@
+D:\learn\compilers\crafting-interpreters\sharplox\bin\Debug\net6.0\sharplox.exe
+D:\learn\compilers\crafting-interpreters\sharplox\bin\Debug\net6.0\sharplox.deps.json
+D:\learn\compilers\crafting-interpreters\sharplox\bin\Debug\net6.0\sharplox.runtimeconfig.json
+D:\learn\compilers\crafting-interpreters\sharplox\bin\Debug\net6.0\sharplox.dll
+D:\learn\compilers\crafting-interpreters\sharplox\bin\Debug\net6.0\ref\sharplox.dll
+D:\learn\compilers\crafting-interpreters\sharplox\bin\Debug\net6.0\sharplox.pdb
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.csproj.AssemblyReference.cache
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.AssemblyInfoInputs.cache
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.AssemblyInfo.cs
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.csproj.CoreCompileInputs.cache
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.dll
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\ref\sharplox.dll
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.pdb
+D:\learn\compilers\crafting-interpreters\sharplox\obj\Debug\net6.0\sharplox.genruntimeconfig.cache
