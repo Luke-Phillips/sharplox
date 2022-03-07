@@ -9,6 +9,7 @@ public abstract class Expr
         R VisitLiteralExpr(Literal expr);
         R VisitUnaryExpr(Unary expr);
     }
+    public abstract R Accept<R>(IVisitor<R> visitor);
     public class Binary : Expr
     {
         public readonly Expr Left;
@@ -63,6 +64,5 @@ public abstract class Expr
             return visitor.VisitUnaryExpr(this);
         }
     }
-    public abstract R Accept<R>(IVisitor<R> visitor);
 }
 }
